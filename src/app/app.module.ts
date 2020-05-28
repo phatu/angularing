@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { FillInFormComponent } from './fill-in-form/fill-in-form.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    FillInFormComponent
   ],
   imports: [
     BrowserModule,

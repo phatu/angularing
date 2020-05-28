@@ -1,0 +1,13 @@
+routing 
+
+text 
+leads to 
+pop up modal
+leads to seach
+
+
+create a form
+search has african countries
+on hover, nav to show the word
+
+snack bar
